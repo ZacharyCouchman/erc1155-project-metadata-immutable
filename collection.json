@@ -1,0 +1,6 @@
+{
+    "name": "CryptoBirdsFood",
+    "description": "An Immutable zkEVM native collection of food for the CryptoBirds.",
+    "image": "https://zacharycouchman.github.io/erc1155-project-metadata-immutable/birdfoodcollection.webp",
+    "external_link": "https://immutable.com"
+}
